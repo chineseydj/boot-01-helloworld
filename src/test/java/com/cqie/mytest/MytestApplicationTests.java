@@ -28,6 +28,7 @@ class MytestApplicationTests {
         System.out.println("master ");
         System.out.println("hot-fix second");
         System.out.println("merge");
+        System.out.println("pull 2022/3/7 23:10");
     }
 
 
