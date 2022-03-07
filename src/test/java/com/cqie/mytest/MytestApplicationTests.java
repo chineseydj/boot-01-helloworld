@@ -27,6 +27,7 @@ class MytestApplicationTests {
         admins.forEach(admin -> System.out.println(admin));
         System.out.println("master ");
         System.out.println("hot-fix second");
+        System.out.println("merge");
     }
 
 
