@@ -25,6 +25,8 @@ class MytestApplicationTests {
         //
         List<Admin> admins = adminMapper.queryAdmin();
         admins.forEach(admin -> System.out.println(admin));
+        System.out.println("hot-fix");
     }
+
 
 }
